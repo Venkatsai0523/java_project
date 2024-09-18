@@ -1,8 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-package org.yourcompany.yourproject;
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this licen
 
 /**
  *
